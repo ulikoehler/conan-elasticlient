@@ -17,7 +17,7 @@ class ElasticlientConan(ConanFile):
         "openssl/1.1.1l",
         "cpr/1.6.2",
         "jsoncpp/1.9.4",
-        "libcurl/7.78.0",
+        "libcurl/7.80.0",
     )
     build_requires = (
         "gtest/cci.20210126",
